@@ -14,4 +14,4 @@ clean:
 	rm	*.o	linearVsBinary linearVsBinary.scr linearVsBinary.tar
 
 tar:
-	tar	cf linearVsBinary.tar linearVsBinary.scr Makefile	driver.cpp linear_binary.h linear_binary.cpp
+	tar	cf linearVsBinary.tar linearVsBinary.scr Makefile	driver.cpp linear_binary.h linear_binary.cpp numbers.txt
